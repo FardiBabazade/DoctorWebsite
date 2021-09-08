@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DoctorWebsite/static/css/main.62f40a01.chunk.css",
+    "main.js": "/DoctorWebsite/static/js/main.f410511e.chunk.js",
+    "main.js.map": "/DoctorWebsite/static/js/main.f410511e.chunk.js.map",
+    "runtime-main.js": "/DoctorWebsite/static/js/runtime-main.fb06d0de.js",
+    "runtime-main.js.map": "/DoctorWebsite/static/js/runtime-main.fb06d0de.js.map",
+    "static/css/2.818011ed.chunk.css": "/DoctorWebsite/static/css/2.818011ed.chunk.css",
+    "static/js/2.6143b03e.chunk.js": "/DoctorWebsite/static/js/2.6143b03e.chunk.js",
+    "static/js/2.6143b03e.chunk.js.map": "/DoctorWebsite/static/js/2.6143b03e.chunk.js.map",
+    "static/js/3.6fc07883.chunk.js": "/DoctorWebsite/static/js/3.6fc07883.chunk.js",
+    "static/js/3.6fc07883.chunk.js.map": "/DoctorWebsite/static/js/3.6fc07883.chunk.js.map",
+    "index.html": "/DoctorWebsite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/DoctorWebsite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.62f40a01.chunk.css.map": "/DoctorWebsite/static/css/main.62f40a01.chunk.css.map",
+    "static/js/2.6143b03e.chunk.js.LICENSE.txt": "/DoctorWebsite/static/js/2.6143b03e.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/DoctorWebsite/static/media/aboutleft.55b3b042.png",
+    "static/media/appointment.df67eb90.png": "/DoctorWebsite/static/media/appointment.df67eb90.png",
+    "static/media/doctor.a33f62a2.png": "/DoctorWebsite/static/media/doctor.a33f62a2.png",
+    "static/media/doctornew.16593691.png": "/DoctorWebsite/static/media/doctornew.16593691.png",
+    "static/media/Fag.css": "/DoctorWebsite/static/media/fagback.0d4892de.png",
+    "static/media/fagimgone.ff2fac1f.jpg": "/DoctorWebsite/static/media/fagimgone.ff2fac1f.jpg",
+    "static/media/fagimgtwo.2f0b5115.jpg": "/DoctorWebsite/static/media/fagimgtwo.2f0b5115.jpg",
+    "static/media/Team.css": "/DoctorWebsite/static/media/teamimgtwo.7f7da674.jpg",
+    "static/media/information.060ed823.png": "/DoctorWebsite/static/media/information.060ed823.png",
+    "static/media/pharmacy.e67a06f9.png": "/DoctorWebsite/static/media/pharmacy.e67a06f9.png",
+    "static/media/question.d2100b85.png": "/DoctorWebsite/static/media/question.d2100b85.png",
+    "static/media/Service.css": "/DoctorWebsite/static/media/servicetwo.e2e85593.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb06d0de.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.6143b03e.chunk.js",
+    "static/css/main.62f40a01.chunk.css",
+    "static/js/main.f410511e.chunk.js"
+  ]
+}
