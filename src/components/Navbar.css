@@ -1,0 +1,34 @@
+nav{
+    height: 4em;
+    background-color: #19657c;
+  }
+  .navbar-nav {
+    padding-left: 10em !important;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 2.3em !important;
+  }
+  .navbar-nav li :hover{
+    color: #00acb1 !important;
+  }
+  .navbar-brand img{
+    width: 5.5em;
+  }
+  .nav-one{
+    width: 100%;
+    height: 3em;
+    padding: .6em;
+    background-color: #005963;
+    opacity: .9;
+  }
+  .nav-one h6{
+    font-size: .8em;
+    color: #fff;
+    display: inline-block;
+  }
+  ul{
+    float: right;
+  }
+ul i{
+  margin-left: 1em;
+}

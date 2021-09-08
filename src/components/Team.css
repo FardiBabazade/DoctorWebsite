@@ -1,0 +1,130 @@
+.team{
+    background: url('../images/homeback.jpg') no-repeat;
+    background-size: 100%;
+    height: 33em;
+    background-size: cover;
+    background-position: top;
+    /* position: relative; */
+    margin-bottom: 33.5em;
+}
+.team-overlay{
+    width: 100%;
+    height: 33em;
+    opacity: .5;
+    background-color: #005963;
+}
+.team-word-group{
+    position: absolute;
+    top: -24em;
+    left: 34%;
+    color: #fff;
+}
+.team-word-group h1{
+    font-size: 3.5em;
+    font-weight: 600;
+}
+.team-card-body {
+    padding: 2em;
+}
+.team-card-body h3{
+    color: #005963;
+    font-size: 1.4em;
+}
+.team-card{
+    display: inline-table;
+    border: 2px solid whitesmoke;
+    border-radius: 1em;
+    margin-top: 3em;
+    border-right: none;
+    width: 96%;
+    border-top: none;
+    box-shadow: 1px 2px 16px darkgrey;
+    overflow: hidden;
+    /* position: absolute; */
+    top:-19em;
+}
+/* .team-card-one{
+    top:-19em;
+}
+.team-card-two{
+    top:-19em;
+}
+.team-card-three{
+    top:-19em;
+}
+.team-card-four{
+    top:-19em;
+} */
+.team-card-body h4{
+    color: #005963;
+    font-size: 1.2em;
+}
+.team-card-body i{
+    color: #00acb1;
+}
+.team-card-body span{
+    margin-left: 1em;
+}
+.team-card-image-one{
+    background: url('../images/teamimgone.jpg') no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 18em;
+    background-size: cover;
+    background-position: top;
+    border-radius: 1em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: all 1s;
+
+}
+.team-card-image-two{
+    background: url('../images/teamimgtwo.jpg') no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 18em;
+    background-size: cover;
+    background-position: top;
+    border-radius: 1em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: all 1s;
+}
+.team-card-image-three{
+    background: url('../images/teamimgthree.jpg') no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 18em;
+    background-size: cover;
+    background-position: top;
+    border-radius: 1em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: all 1s;
+}
+.team-card-image-four{
+    background: url('../images/teamimgfour.jpg') no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 18em;
+    background-size: cover;
+    background-position: top;
+    border-radius: 1em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: all 1s;
+}
+
+
+.team-card:hover .team-card-image-one{
+    transform: scale(1.2);
+}
+.team-card:hover .team-card-image-two{
+    transform: scale(1.2);
+}
+.team-card:hover .team-card-image-three{
+    transform: scale(1.2);
+}
+.team-card:hover .team-card-image-four{
+    transform: scale(1.2);
+}

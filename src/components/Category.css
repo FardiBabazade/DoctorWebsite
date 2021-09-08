@@ -1,0 +1,41 @@
+.card h3{
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin-top: 1em;
+}
+.card h2{
+    font-size: 1.4em;
+    color: #005963;
+}
+.card{
+    width: 100%;
+    position: relative;
+    padding: 3em;
+    margin-top: 7em;
+   
+}
+.card h5{
+    color: #005963;
+    margin-top: 1em;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+.card-up{
+    position: absolute;
+    top:-2em;
+    left: 7.2em;
+    width: 4em;
+    height: 4em;
+    background-color:#fff;
+    border-radius: .2em;
+    box-shadow:0 3px 16px rgb(0 0 0 / 6%);
+}
+.card-up i{
+    font-size: 2.5em;
+    margin-top: .2em;
+}
+.card-category{
+    margin-top: 3em;
+    margin-bottom: 9em;
+}

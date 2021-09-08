@@ -1,0 +1,1026 @@
+.Home{
+    background: url('../images/homeback.jpg')  no-repeat;
+    background-size: 100%;
+    height: 48em;
+    background-size: cover;
+    background-position: top;
+}
+.overlay{
+  background:#005963;
+  width: 100%;
+  height: 100%;
+  opacity: .6;
+}
+ h5{
+  margin-top: 9.5em;
+  color:white;
+}
+ .home-p{
+  font-size: 4em !important;
+  font-size: 3.5em;
+  font-weight: 500;
+  line-height: 1em;
+}
+ .btn-home{
+    width: 12em;
+    height: 4em;
+    border-radius: .5em !important;
+    color: #fff;
+    font-weight: 600;
+    background-color: #00acb1;
+    border:none;
+    text-transform: uppercase !important;
+ }
+ .btn-home-two{
+   color: #005963;
+   background-color: #fff;
+   margin-left: 1em;
+ }
+.homein{
+  bottom: 17em;
+  left: 30%;
+  position: absolute
+}
+ 
+@media only screen and (max-width:1400px)
+{
+  .card h3 {
+    font-size: 1em !important;
+  }
+  .card h2 {
+    font-size: 1.2em;
+}
+.card h5 {
+  font-size: 1em;
+}
+.card-up{
+  left: 6.2em !important;
+}
+
+
+.about .about-main {
+  margin-top: 3em;
+  font-size: 3.3em !important;
+}
+.doctor-card-image-one {
+  height: 16em !important;
+}
+.doctor-card-body {
+  padding: 1em !important;
+}
+.doctors-search-title {
+  font-size: 3em !important;
+}
+}
+
+@media only screen and (max-width: 1200px) {
+  .home-p {
+    font-size: 3.3em !important;
+  }
+  .card-service-body {
+    width: 19em !important;
+  }
+  .card-image-service {
+    width: 19em !important;
+  }
+  .card-up i {
+    font-size: 2em !important;
+    margin-top: .5em !important;
+}
+.card {
+  padding: 2em !important;
+}
+.card h2 {
+  font-size: 1.2em !important;
+}
+.card-up {
+  left: 5em !important;
+}
+.card-up i {
+  font-size: 1.5em !important;
+  margin-top: .8em !important;
+}
+.card h5{
+  font-size: .8em !important;
+}
+.team-card-body h3 {
+  font-size: 1.1em !important;
+}
+.footer-contact-two {
+  font-size: 1em !important;
+}
+
+.about .about-main {
+  font-size: 3.1em !important;
+}
+.fag-menu li {
+  width: 18em !important;
+  font-size: 1em !important;
+}
+.fag-menu-questions li {
+  height: 4.2em !important;
+  font-size: .9em !important;
+}
+.team-card-image-one{
+  height:13em !important;
+}
+.team-card-image-two{
+  height:13em !important;
+}
+.team-card-image-three{
+  height:13em !important;
+}
+.team-card-image-four{
+  height:13em !important;
+}
+.team-card-body {
+  padding: 1em !important;
+}
+.team {
+  margin-bottom: 26.5em !important;
+}
+.fagmenu .fagmenu-main {
+  margin-top: 3em !important;
+  font-size: 3.3em !important;
+} 
+.contact-main-title {
+  font-size: 3em !important;
+}
+.doctor-card-image-one {
+  height: 13em !important;
+}
+.doctor-card-body h3 {
+  font-size: 1.2em !important;
+}
+.doctor-card-body h4 {
+  font-size: 1em !important;
+}
+.doctor .doctor-main-title {
+  margin-top: 3.5em !important;
+  font-size: 3em !important;
+}
+}
+
+@media only screen and (max-width: 1065px) {
+  .card-image-service {
+    width: 18em !important;
+  }
+  .card-service-body
+  {
+    width: 18em !important;
+  }
+  .home-p {
+    font-size: 3em !important;
+}
+} 
+
+@media only screen and (max-width: 1015px) {
+  .team-card-image{
+    width: 14em !important;
+  }
+  .team-card-body{
+    width: 14em !important;
+  }
+  .fag-menu-questions li {
+    width: 36em !important;
+  }
+}
+
+
+@media only screen and (max-width: 992px) 
+{
+  .doctor-card {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+  .nav-one {
+    height: 4em !important;
+  }
+  .footer-contact-down-three-title+input {
+    width: 100% !important;
+}
+.footer-contact-button {
+  width: 100% !important;
+}
+  .how-services img {
+    width: 3em !important;
+}
+  .card-service-body {
+    width: 14em !important;
+}
+.how-services h3 {
+  font-size: 1em !important;
+}
+.how-services h4 {
+  font-size: .8em !important;
+}
+.services-title-two {
+  font-size: 3em !important;
+}
+.card-service-body p{
+  font-size: .8em !important;
+}
+.card-image-service {
+  height: 13em !important;
+}
+.card-service-body {
+  padding-top: 2em !important;
+}
+.card-service-body .card-service-body-footer {
+  font-size: .9em !important;
+}
+.card-service-body-title{
+  font-size: 1.2em !important;
+}
+.card-image-service {
+  width: 14em !important;
+}
+  .nav-one h6 {
+    font-size: .6em;
+  }
+  .nav-one .nav-icon{
+    font-size: .9em;
+  }
+  .home-p {
+    font-size: 2.5em !important;
+}
+.btn-home {
+  width: 11em;
+}
+.navbar-nav{
+  float: none;
+  padding-left: 10 !important;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  background-color: #19657c;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+  padding-left: 0 !important;
+    padding: 0.8em;
+}
+  .navbar{
+    padding: 0 !important;
+  }
+  .footer-contact-two {
+    font-size: .7em !important;
+}
+.footer-contact-one {
+  font-size: 1em;
+}
+.footer-contact-icon {
+  font-size: 1.5em;
+  margin-top: .4em;
+}
+
+.fag-img-one {
+  width: 20em !important;
+  margin-left: 4em;
+}
+.fag-img-two {
+  width: 19em;
+  left: 2em;
+}
+
+.fag-main-title {
+  font-size: 3em !important;
+  margin-top: 1em !important;
+}
+.fag-main-title-h5{
+  font-size: 1em !important;
+}
+.fag-icon-one {
+  font-size: 2em !important;
+  margin-top: 1.8em !important;
+}
+.fag-title-one {
+  font-size: 1.5em !important;
+  margin-top: 2em !important;
+}
+.team-card{
+  width: 80% !important;
+}
+
+.team-card-image-two {
+  width: 17em !important;
+  height: 16em !important;
+}
+.team-card-image-one{
+  width: 17em !important;
+  height: 16em !important;
+}
+.team-card-body{
+    padding: 1em !important;
+    padding-left: 2em !important;
+}
+.team-card-image-four{
+  width: 17em !important;
+  height: 16em !important;
+}
+.team-card-image-three{
+  width: 17em !important;
+  height: 16em !important;
+}
+.team{
+  margin-bottom: 54em !important;
+}
+.team-card-four{
+  top:10em !important;
+}
+.team-card-three {
+  top: 10em !important;
+}
+.team-word-group {
+  left: 19% !important;
+}
+.about .about-main {
+  font-size: 2.9em !important;
+  margin-top: 3em;
+}
+.doctors-search-title {
+  font-size: 2.5em !important;
+}
+.doctors-input{
+  width: 70% !important;
+}
+}
+
+@media only screen and (max-width: 975px)
+{
+  .navbar-nav {
+    padding-left: 0 !important;
+    
+  }
+}
+@media only screen and (max-width: 885px)
+{
+  .fag-menu-questions li {
+    height: 4.7em !important;
+    font-size: .8em !important;
+}
+.fag-menu-questions li {
+  width: 38em !important;
+}
+.fag-menu li {
+  width: 18em !important;
+  font-size: .9em !important;
+  height: 3.3em !important;
+}
+}
+
+
+@media only screen and (max-width: 827px)
+{
+  .fag-img-one {
+    width: 17em !important;
+    margin-left: 3em;
+  }
+  .fag-img-two {
+   width: 17em !important;
+    right: 6em !important;
+    top: 18em !important;
+  }
+  .fag-menu-questions li {
+    height: 5.2em !important;
+    font-size: .7em !important;
+}
+.fag-menu li {
+  width: 17em !important;
+  font-size: .8em !important;
+  height: 3.7em !important;
+}
+.fag-menu ul {
+  margin-top: 3.3em !important;
+}
+}
+
+@media only screen and (max-width: 768px)
+{
+  .home-p {
+    font-size: 2.1em !important;
+  }
+  .card-service-body {
+    padding-left: 0em !important;
+  } 
+  .footer-contact-down h2 {
+    margin-top: 1em !important;
+  }
+  .fag{
+    height: 65em !important;
+  }
+  .homein {
+    left: 17%;
+}
+.btn-home {
+  width: 12em;
+  height: 4.5em;
+  font-size: .7em;
+}
+
+.nav-one h6 {
+  font-size: .7em;
+}
+.fag-img-one {
+  margin-top: 6em !important;
+  width: 18em !important;
+}
+.fag-img-two
+{
+  left: 7em;
+  top:17em;
+}
+.fag-main-title {
+  font-size: 2.5em !important;
+  margin-top: 1em !important;
+}
+.fag-main-title-h5 {
+  font-size: .8em !important;
+}
+.team-card-image {
+  width: 15em !important;
+}
+.team-card-body {
+  padding: 1em !important;
+  padding-left: 2em !important;
+}
+.footer-contact {
+  margin-top: 1em !important;
+  height: 15em !important;
+}
+.team-word-group h1 {
+  font-size: 3em !important;
+}
+.fag-menu li {
+  width: 36em !important;
+}
+.fag-menu-questions ul {
+  margin-bottom: 5em !important;
+}
+.fag-menu ul{
+  float: none !important;
+}
+.doctor-card-body {
+  padding: 2.5em !important;
+}
+
+.doctors-input {
+  font-size: 1.8em !important;
+  width: 70% !important;
+}
+.fag-menu-questions ul {
+  margin-top: 1em !important;
+}
+}
+
+@media only screen and (max-width: 576px)
+{
+  .team {
+    margin-bottom: 105em !important;
+  }
+ 
+  .team-card-one {
+    top: 34em !important;
+}
+.team-card {
+    width: 18em !important;
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.team-card-four {
+  top: 58em !important;
+}
+.team-card-image{
+  width: 18em !important;
+}
+.team-word-group h4{
+  margin-top: 1em !important;
+}
+.team-word-group h1{
+  margin-top: 0em !important;
+}
+  .about .about-main {
+    font-size: 2em !important;
+    margin-top: 9.5em !important;
+  }
+  .about .about-main-img {
+    width: 2.5em !important;
+}
+.contact-main-title {
+  font-size: 2.5em !important;
+}
+.card-service-body {
+  width: 18em !important;
+}
+.card-image-service {
+  width: 18em !important;
+}
+.fagmenu .fagmenu-main {
+  margin-top: 8em !important;
+  font-size: 2em !important;
+}
+.doctor .doctor-main-title {
+  margin-top: 6.8em !important;
+  font-size: 2.2em !important;
+}
+.contact-main-title {
+  font-size: 2.2em !important;
+  margin-top: 7em !important;
+}
+.doctor-card {
+  width: 60% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.doctor-card-image-one {
+  height: 19em !important;
+}
+/* .doctors-input {
+  height: 2.5em !important; 
+  font-size: 1em !important;
+} */
+}
+
+@media only screen and (max-width: 550px)
+{
+  .team-word-group h1 {
+    font-size: 2.2em !important;
+  }
+} 
+@media only screen and (max-width: 530px)
+{
+  .fag-menu li {
+    width: 33em !important;
+  }
+  .fag-menu ul {
+    float: inline-end !important;
+}
+.doctor-card-body {
+  padding: 1em !important;
+} 
+
+/* .doctors-input {
+  margin-top: 1em;
+  height: 2em !important;
+  font-size: 1em !important;
+} */
+.doctors-search-title {
+  font-size: 2.3em !important;
+}
+}
+@media only screen and (max-width: 480px)
+{
+  .fag-menu li {
+    width: 30em !important;
+  }
+  .fag-menu-questions li {
+    width: 34em !important;
+}  
+}
+
+
+@media only screen and (max-width: 470px)
+{
+.card-up {
+  left: 4.5em !important;
+}
+.footer-contact-button {
+  height: 5.2em !important;
+  font-size: .8em !important;
+}
+.homein {
+  bottom: 20em !important;
+}
+.navbar-brand img {
+  width: 4.5em;
+  margin-left: 1em;
+}
+.footer-contact-icon {
+  font-size: 1.5em !important;
+  margin-top: 0.4em !important;
+}
+.footer-contact-one {
+  font-size: 1em !important;
+}
+.services-title-two {
+  font-size: 2em !important;
+}
+.team-card-body h4 {
+  font-size: 1em !important;
+}
+.team-card-body h3 {
+  font-size: 1em !important;
+}
+.card h2 {
+  font-size: 1em !important;
+}
+.team-card {
+  width: 15em !important;
+}
+.team-card-image-one {
+  width: 15em !important;
+  height: 12em !important;
+}
+.team-card-image-two {
+  width: 15em !important;
+  height: 12em !important;
+}
+.team-card-image-three {
+  width: 15em !important;
+  height: 12em !important;
+}
+.team-card-image-four {
+  width: 15em !important;
+  height: 12em !important;
+}
+.team {
+  margin-bottom: 90em !important;
+}
+.how-services h3 {
+  margin-top:  0 !important;
+}
+.how-services img {
+  margin-top: 0 !important;
+}
+.fagmenu .fagmenu-main {
+  margin-top: 7em !important;
+  font-size: 2.3em !important;
+}
+.fag-main-img {
+  width: 2.5em !important;
+}
+.doctor-card {
+  width: 50% !important;
+}
+.doctor-card-image-one {
+  height: 14em !important;
+}
+}
+
+@media only screen and (max-width: 456px)
+{
+  .card-image-service {
+    width: 12em !important;
+}
+.fag-main-title {
+  font-size: 2em !important;
+}
+.card-service-body-title {
+  font-size: 1em !important;
+}
+
+.card-service-body p {
+  width: 100% !important;
+  font-size: .7em !important;
+  margin-top: 0em !important;
+}
+.card-service-body {
+  padding-top: 1em !important;
+  width: 12em !important;
+}
+.card-service-body .card-service-body-footer {
+  font-size: .8em !important;
+}
+.fag-main-title-h5 {
+  font-size: 0.7em !important;
+}
+.fag-icon-one {
+  font-size: 1.8em !important;
+  margin-top: 2em !important;
+}
+.home-p {
+  font-size: 1.5em !important;
+}
+.card-service-body {
+  width: 15em !important;
+}
+.card-image-service {
+  width: 15em !important;
+}
+.doctor-card-body {
+  padding: .7em !important;
+}
+}
+
+@media only screen and (max-width: 454px)
+{
+.nav-one h6 {
+  font-size: .6em !important;
+}
+.fag-menu li {
+  width: 28em !important;
+}
+.fag-menu-questions li {
+  width: 32em !important;
+}
+}
+
+@media only screen and (max-width: 437px)
+{
+  .card h3 {
+    font-size: .8em !important;
+}
+.card-image-service {
+  width: 11em !important;
+}
+.card-service-body {
+  padding-top: 1em !important;
+  width: 11em !important;
+}
+.card-up {
+  left: 3.5em !important;
+}
+.card-service-body {
+  width: 14em !important;
+}
+.card-image-service {
+  width: 14em !important;
+}
+/* .doctor-card {
+  width: 55% !important;
+} */
+.doctors-input {
+  height: 2.2em !important;
+  font-size: 1.1em !important;
+}
+
+}
+@media only screen and (max-width: 425px)
+{
+.fag-menu li {
+  width: 26em !important;
+}
+.fag-menu-questions li {
+  width: 30em !important;
+}
+.doctor-main-image {
+  width: 4em !important;
+}
+.doctor-card {
+  width: 59% !important;
+}
+}
+@media only screen and (max-width: 408px)
+{
+.nav-one .nav-icon {
+  font-size: .7em;
+}
+}
+
+@media only screen and (max-width: 400px)
+{
+
+.nav-one h6 {
+  font-size: .5em !important;
+}
+.fag-img-two {
+  width: 15em !important;
+  top: 18em !important;
+}
+.fag-img-one {
+  margin-top: 8em !important;
+  width: 16em !important;
+}
+.homein {
+  left: 14% !important;
+}
+.about .about-main {
+  font-size: 1.8em !important;
+}
+}
+
+@media only screen and (max-width: 391px)
+{
+.card h2 {
+  font-size: .8em !important;
+}
+.fag-menu li {
+  width: 23em !important;
+}
+.fag-menu-questions li {
+  width: 26em !important;
+}
+.doctor .doctor-main-title {
+  margin-top: 7.8em !important;
+  font-size: 2em !important;
+}
+.doctor-card {
+  width: 64% !important;
+}
+.doctors-search-title {
+  font-size: 2em !important;
+}
+.doctor-card {
+  width: 67% !important;
+}
+}
+
+@media only screen and (max-width: 386px)
+{
+.card h5 {
+  font-size: .7em !important;
+}
+.card h3 {
+  font-size: .7em !important;
+}
+}
+@media only screen and (max-width: 380px)
+{
+  .nav-one {
+    height: 3em !important;
+}
+.about .about-main {
+  font-size: 1.5em !important;
+  margin-top: 8.5em !important;
+}
+.about .about-main-img {
+  width: 2em !important;
+}
+nav {
+  height: 3.3em !important;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-size: .8em !important;
+}
+.btn-home {
+  width: 11em;
+  height: 4.5em;
+  font-size: .6em;
+}
+.homein {
+  left: 20% !important;
+}
+.card {
+  margin-top: 1em !important;
+}
+.card-up i {
+  font-size: 1.2em !important;
+}
+.card-category {
+  margin-top: 2em !important;
+  margin-bottom: 3em !important;
+}
+.card-up {
+  top: -1.5em !important;
+  width: 3em !important;
+  height: 3em !important;
+}
+.fag-main-title {
+  margin-top: 3em !important;
+  font-size: 1.5em !important;
+}
+.fag-title-two {
+  font-size: .8em !important;
+}
+.fag-title-one {
+  font-size: 1.3em !important;
+  margin-top: 2.4em !important;
+}
+.fag-icon-one {
+  font-size: 1.2em !important;
+  margin-top: 3em !important;
+}
+.fag-img-one {
+  width: 14em !important;
+}
+.fag-img-two {
+  width: 14em !important;
+  top: 16em !important;
+}
+.fag {
+  height: 58em !important;
+}
+.services-title-two {
+  font-size: 1.6em !important;
+}
+.services-title {
+  font-size: .9em !important;
+  margin-top: 2em !important;
+}
+.services-title-three {
+  margin-top: 3em !important;
+  font-size: .9em !important;
+}
+.how-services img {
+  width: 2.5em !important;
+  margin-top: 0 !important;
+}
+.how-services h3 {
+  font-size: .9em !important;
+  margin-top:  0 !important;
+}
+.how-services h4 {
+  font-size: .7em !important;
+}
+.team-word-group h1 {
+  font-size: 1.8em !important;
+}
+.footer-contact-down-three-title+input {
+  height: 3.3em !important;
+  font-size: .8em !important;
+} 
+.footer-contact-button {
+  height: 3em !important;
+}
+.fagmenu .fagmenu-main {
+  margin-top: 6em !important;
+  font-size: 2em !important;
+}
+.fag-main-img {
+  width: 2em !important;
+  margin-top: .4em !important;
+}
+.doctor .doctor-main-title {
+  margin-top: 7em !important;
+  font-size: 1.8em !important;
+}
+.doctor-main-image {
+  width: 3.5em !important;
+}
+.contact-main-title {
+  font-size: 2em !important;
+  margin-top: 6.5em !important;
+}
+}
+
+
+@media only screen and (max-width: 360px){
+.card h3 {
+  font-size: .6em !important;
+}
+.doctor .doctor-main-title {
+  margin-top: 6.8em !important;
+  font-size: 2em !important;
+}
+}
+
+@media only screen and (max-width: 352px){
+.nav-one .nav-icon {
+  font-size: .6em;
+}
+.fag-menu li {
+  width: 20em !important;
+}
+.fag-menu-questions li {
+  width: 23em !important;
+}
+}
+
+@media only screen and (max-width: 350px){
+  .card h2 {
+    font-size: .7em !important;
+}
+.card h5 {
+  font-size: .6em !important;
+}
+.nav-one .nav-icon {
+  font-size: 0.5em !important;
+}
+.doctor-card {
+  width: 71% !important;
+}
+
+}
+@media only screen and (max-width: 344px){
+.nav-one {
+  height: 4em !important;
+}
+.home-p {
+  font-size: 1em !important;
+}
+.card h3 {
+  font-size: .5em !important;
+}
+}
+@media only screen and (max-width: 340px){
+  .home-p {
+    font-size: 1.2em !important;
+}
+.fag-img-two {
+  width: 13em !important;
+}
+}
+
+
+@media only screen and (max-width: 328px){
+
+.card h2 {
+  font-size: .6em !important;
+}
+.services-title-two {
+  font-size: 1.4em !important;
+}
+.fag-menu li {
+  width: 18em !important;
+}
+.fag-menu-questions li {
+  width: 21em !important;
+}
+.doctor-card {
+  width: 75% !important;
+}
+.homein {
+    left: 16% !important;
+}
+}
